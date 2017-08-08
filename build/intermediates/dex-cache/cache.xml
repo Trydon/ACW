@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9e2a5616b71815fdf55236597ec961b403cf11b.jar" />
+    </item>
+    <item
+        jar="E:\CodeworksAndroid\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_cc0a5dda61b51f07f18a1b77cb2626953c0e3e6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_477c0826e70f3d3110b0ef3cb3dc2bbde380ec79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_52fdab6196e940ba2d594cb58092bd6f5f6df586.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4dca173c547c6ebd33e5b5628e214adb8feec93c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c298a4686b25786e8c5fcdb40e2a420daf93089c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_ebfb11733bcb51e08b440a5b6cda821d132d1edc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2e632fb25c81c6f816f81f60dccaa730b2ed051e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9663e4ede8ab6bb78567a259c508afc2f3edc91b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5179f187b5c44acf1f38dbe3ddddd0a92705e228.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_5ca2eaed38412f3b41da42d83f797dc0b08de342.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4a6e795287a70d901aabfef37b8c0ddf6b8d295c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_627d487641b78c090a52899dad48b320f00cd760.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_212c8fcb83354d212924379ad721691b25703d61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8a654188978e9a3f1f86ff82a02bc16e24f4f11e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7904c56d92f7414440914f62058c4a20c4e23f31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Dave Gamble\Desktop\ACW\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d443bb42b02bf16cd039b520af42263e505f2fbf.jar" />
+    </item>
+
+</items>

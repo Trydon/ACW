@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="selection">Select a Puzzle</string>
+    <string name="nomatch">No match, try again!</string>
+    <string name="Online">Online</string>
+    <string name="Local">Local</string>
+    <string name="small">Small Puzzles</string>
+    <string name="medium">Medium Puzzles</string>
+    <string name="large">Large Puzzles</string>
+    <string name="highscores">Scores!</string>
+    <string name="gameover">Game over! Your score was</string>
+
+</resources>
